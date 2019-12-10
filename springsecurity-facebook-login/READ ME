@@ -1,0 +1,14 @@
+
+This app demonstrates how to log in using Faceboot or GitHub
+
+1. Login to Facebook
+2. Run application and go to https://localhost:8080
+3. Log in as Valentin facebook page will show up, CLIK IT !!
+
+
+Source: https://www.youtube.com/watch?v=CWiwpvpCrro&t=561s
+
+
+To set up Facebook login
+1. develpers.facebook.com
+2. go to Settings -> Basic   Get AppId and AppSecret and values go to application.yml file
